@@ -6,12 +6,12 @@
 
 ## Overview
 
-This repository showcases the design of a **custom STM32F100CTB development board**, created using **KiCad** as part of a **Learning & Development (L&D)** initiative within the **Phiip Lab course**.  
+This repository showcases the design of a **custom STM32F100CTB development board**, created using **KiCad** as part of a **Learning & Development (L&D)**.
 The board serves as a hands-on platform for exploring **embedded systems**, **ARM Cortex-M microcontrollers**, and **mixed-signal PCB design** practices.
 
 The goal of this project is to provide a compact yet powerful **training and development board** that allows learners to understand the fundamentals of microcontroller hardware, PCB layout, and circuit design — from schematic to prototype.
 
-> The image above shows the top view of the PCB — featuring the STM32 microcontroller at the center, USB Type-B port at the top, and dual GPIO headers for flexible use.
+> The image above shows the top and bottom view of the PCB — featuring the STM32 microcontroller at the center, USB Type-B port at the top, and dual GPIO headers for flexible use.
 
 ---
 
@@ -53,15 +53,6 @@ This board was developed with the following objectives:
 - Explore **best practices in mixed-signal layout**, decoupling, and grounding.  
 - Strengthen understanding of **KiCad workflow**, from schematic capture to PCB fabrication and assembly.  
 
----
-
-## Board Layout Summary
-
-- **Top Layer:** Digital signal routing and component placement  
-- **Inner Layer 1:** Power distribution (3.3V / 5V)  
-- **Inner Layer 2:** Continuous ground plane for low-impedance return paths  
-- **Bottom Layer:** General routing and external headers  
-
 ### Key Components
 
 | Reference | Component | Function |
@@ -82,11 +73,8 @@ This board was developed with the following objectives:
 Through this project, students and engineers gain hands-on experience with:
 
 - **Schematic design** in KiCad  
-- **Component library management**  
-- **4-layer PCB stack-up design**  
+- **Component library management**   
 - **Grounding and decoupling strategies**  
-- **Signal routing and isolation techniques**  
-- **Power integrity analysis**  
 
 This board also provides a reusable reference for future mixed-signal designs and embedded control experiments.
 
@@ -97,19 +85,8 @@ This board also provides a reusable reference for future mixed-signal designs an
 - Embedded systems education and prototyping  
 - Real-time control and automation projects  
 - Peripheral testing and firmware development  
-- Hardware design and signal integrity learning modules  
+- Hardware design learning modules  
 
 ---
 
-## Future Improvements
-
-- Integrate USB-to-UART bridge for easier serial communication  
-- Expand analog interfaces (ADC/DAC input/output)  
-- Add test points for debugging and measurement  
-- Develop dedicated demo firmware (UART, GPIO, ADC, PWM)  
-- Include full schematic and fabrication files  
-
----
-
-## Repository Structure
 
