@@ -1,10 +1,17 @@
 # STM32 Board Design using KiCad
 
-![Top view of board](Images/3D_View.jpg)
+<p align="center">
+  <img src="Images/3D_View.jpg" alt="3D view of board" width="500"/>
+</p>
 
-![Top view of board](Images/Top.jpg)
+<p align="center">
+  <img src="Images/Top.jpg" alt="Top view of board" width="500"/>
+</p>
 
-![Bottom view of board](Images/Bottom.png)
+<p align="center">
+  <img src="Images/Bottom.png" alt="Bottom view of board" width="500"/>
+</p>
+
 
 ## Overview
 
