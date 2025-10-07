@@ -12,7 +12,7 @@
   <img src="Images/Bottom.png" alt="Bottom view of board" width="500"/>
 </p>
 <p align="center">
-  <img src="Images/Top and Bottom Layer.png" alt="Bottom view of board" width="500"/>
+  <img src="Images/Top and Bottom Layer.jpg" alt="Bottom view of board" width="500"/>
 </p>
 
 ## Overview
