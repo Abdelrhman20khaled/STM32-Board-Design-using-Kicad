@@ -2,6 +2,8 @@
 
 ![Top view of board](Images/Top.jpg)
 
+![Bottom view of board](Images/Bottom.png)
+
 ## Overview
 
 This repository showcases the design of a **custom STM32F100CTB development board**, created using **KiCad** as part of a **Learning & Development (L&D)** initiative within the **Phiip Lab course**.  
