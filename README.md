@@ -1,6 +1,6 @@
 # STM32 Board Design using KiCad
 
-![Top view of board](Images/Top.png)
+![Top view of board](Images/Top.jpg)
 
 ## Overview
 
